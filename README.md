@@ -9,5 +9,10 @@
   <area shape="rect" coords="280,750,270,350"
         alt="Bugatti la voiture noire" href="https://www.bugatti.com/la-voiture-noire/">
 </map>
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
 </body>
 </html>
