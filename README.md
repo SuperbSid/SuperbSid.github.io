@@ -11,7 +11,7 @@
 </map>
 <style>
 body {
-  background-image: url('img_girl.jpg');
+  background-image: url('https://i.insider.com/5d52d4b8cd97840fe250aa5d?width=1136&format=jpeg');
 }
 </style>
 </body>
