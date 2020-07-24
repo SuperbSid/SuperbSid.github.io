@@ -11,7 +11,7 @@
 </map>
 <style>
 body {
-  background-image: url('space_milky_way_4k-1920x1080.jpeg');
+  background-image: url('C:\Users\Siddhesh_Sarage\Pictures\Saved Pictures\space_milky_way_4k-1920x1080.jpeg');
 }
 </style>
 </body>
